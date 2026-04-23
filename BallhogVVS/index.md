@@ -5,6 +5,9 @@ title: BallhogVVS
 
 # BallhogVVS
 
+- Bullet 1
+- Bullet 2
+
 **Authors:** Nathalie Marti and Gabriel Teles
 
 ## What this project is
