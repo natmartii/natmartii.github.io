@@ -1,5 +1,5 @@
 ---
-layout: defuault
+layout: default
 title: BallhogVVS
 ---
 
