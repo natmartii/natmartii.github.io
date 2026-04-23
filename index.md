@@ -10,4 +10,4 @@ Project page: [BallhogVVS] (/BallhogVVS/)
 
 ## Click the link up top to see our conclusions!
 
-- we compiled research 
+- We compiled research on the class survey taken in class.
