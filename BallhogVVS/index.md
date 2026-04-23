@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: BallhogVVS
+title: BallhogVVS
 ---
 
 # BallhogVVS
